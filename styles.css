@@ -14,7 +14,7 @@ p {
 }
 
 main {
-  transform: scale(1.2);
+  transform: scale(1.1);
   background-color: hsl(216, 50%, 16%);
   height: 530px;
   width: 300px;
